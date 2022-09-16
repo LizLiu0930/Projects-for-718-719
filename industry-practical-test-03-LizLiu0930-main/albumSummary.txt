@@ -1,0 +1,487 @@
+311, "311", Alternative, nineties
+2 Live Crew, "As Nasty As They Wanna Be", Hip Hop/Rap, eighties
+21st Century Schizoid Band, "Pictures of a City – Live in New York", Rock, twenty_first_century
+3 Doors Down, "The Better Life", Rock, twenty_first_century
+8 Foot Sativa, "Hate Made Me", Metal, twenty_first_century
+A Flock Of Seagulls, "A Flock Of Seagulls", Pop, eighties
+A Perfect Circle, "Mer de Noms", Alternative, twenty_first_century
+A Perfect Circle, "Thirteenth Step", Alternative, twenty_first_century
+A Perfect Circle, "eMOTIVe", Alternative, twenty_first_century
+A Tribe Called Quest, "The Anthology", Hip Hop/Rap, nineties
+A.F.I., "Sing The Sorrow", Alternative, twenty_first_century
+A.F.I., "decemberunderground", Alternative, twenty_first_century
+A.F.I., "Crash Love", Alternative, twenty_first_century
+AC/DC, "Back In Black", Rock, eighties
+Aerosmith, "Big Ones", Rock, nineties
+Afroman, "The Good Times", Hip Hop/Rap, twenty_first_century
+a-ha, "Headlines and Deadlines: The Hits of a-ha", Pop, nineties
+Alice Cooper, "Trash", Rock, eighties
+Alice Cooper, "Hey Stoopid", Rock, nineties
+Alice Cooper, "The Last Temptation", Rock, nineties
+Alice in Chains, "The Essential Alice in Chains", Alternative, twenty_first_century
+Alien Ant Farm, "ANThology", Alternative, nineties
+Alien Ant Farm, "truANT", Alternative, twenty_first_century
+Alphaville, "Alphaville: The Singles Collection", Pop, eighties
+American Head Charge, "The War Of Art", Metal, twenty_first_century
+Andrew W.K., "I Get Wet", Alternative, twenty_first_century
+Arch Enemy, "Doomsday Machine", Metal, twenty_first_century
+Arrested Development, "3 Years, 5 Months & 2 Days in the Life Of...", Hip Hop/Rap, nineties
+Art Garfunkel, "Garfunkel", Pop, eighties
+ASG, "Win Us Over", Metal, twenty_first_century
+Ash, "1977", Alternative, nineties
+Asia, "Asia", Rock, eighties
+Audioslave, "Audioslave", Alternative, twenty_first_century
+Audioslave, "Out of Exile", Alternative, twenty_first_century
+Audioslave, "Revelations", Alternative, twenty_first_century
+Avenged Sevenfold, "City of Evil", Metal, twenty_first_century
+Bad Religion, "Suffer", Alternative, eighties
+Bad Religion, "No Control", Alternative, eighties
+Bad Religion, "Against the Grain", Alternative, nineties
+Bad Religion, "Generator", Alternative, nineties
+Bad Religion, "Recipe For Hate", Alternative, nineties
+Bad Religion, "Stranger Than Fiction", Alternative, nineties
+Bad Religion, "The Gray Race", Alternative, nineties
+Bad Religion, "No Substance", Alternative, nineties
+Bad Religion, "The New America", Alternative, twenty_first_century
+Bad Religion, "The Process Of Belief", Alternative, twenty_first_century
+Bad Religion, "The Empire Strikes First", Alternative, twenty_first_century
+Bad Religion, "New Maps of Hell", Alternative, twenty_first_century
+Bad Religion, "The Dissent of Man", Alternative, twenty_first_century
+Bad Religion, "True North", Alternative, twenty_first_century
+Badfinger, "Timeless....The Musical Legacy", Rock, twenty_first_century
+Beastie Boys, "Beastie Boys Anthology: The Sounds of Science", Hip Hop/Rap, nineties
+Beastie Boys, "To the 5 Boroughs", Hip Hop/Rap, twenty_first_century
+Beck, "Odelay", Alternative, nineties
+Better Than Ezra, "Deluxe", Alternative, nineties
+Billy Idol, "Billy Idol", Pop, eighties
+Billy Joel, "The Essential Billy Joel", Pop, twenty_first_century
+Biz Markie, "The Biz Never Sleeps", Hip Hop/Rap, eighties
+Blind Melon, "Blind Melon", Alternative, nineties
+Blink-182, "Dude Ranch", Alternative, nineties
+Blink-182, "Enema of the State", Alternative, nineties
+Blink-182, "Take Off Your Pants and Jacket", Alternative, twenty_first_century
+Blink-182, "blink‐182", Alternative, twenty_first_century
+Blink-182, "Neighborhoods", Alternative, twenty_first_century
+Blondie, "Greatest Hits", Pop, twenty_first_century
+Blue Öyster Cult, "Super Hits", Rock, twenty_first_century
+Bob Dylan, "The Essential Bob Dylan", Folk, twenty_first_century
+Bruce Springsteen, "Greetings from Asbury Park, N.J.", Rock, seventies
+Bruce Springsteen, "Born To Run", Rock, seventies
+Bruce Springsteen, "The River", Rock, eighties
+Bruce Springsteen, "Nebraska", Rock, eighties
+Bruce Springsteen, "Born In The U.S.A.", Rock, eighties
+Bruce Springsteen, "Greatest Hits", Rock, nineties
+Bruce Springsteen, "The Ghost of Tom Joad", Rock, nineties
+Bush, "Sixteen Stone", Alternative, nineties
+Carpenters, "Gold: Greatest Hits", Pop, twenty_first_century
+Chuck Berry, "Icon: Chuck Berry", Rock, twenty_first_century
+Coldplay, "Viva La Vida or Death and All His Friends", Alternative, twenty_first_century
+Creedence Clearwater Revival, "Best Of", Rock, twenty_first_century
+Culture Club, "Colour By Numbers", Pop, eighties
+Cypress Hill, "Skull & Bones", Hip Hop/Rap, twenty_first_century
+Cypress Hill, "Till Death Do Us Part", Hip Hop/Rap, twenty_first_century
+Cypress Hill, "Greatest Hits from the Bong", Hip Hop/Rap, twenty_first_century
+Danzig, "Danzig", Metal, eighties
+Dave Brubeck, "The Essential Dave Brubeck", Jazz, twenty_first_century
+David Bowie, "Changesbowie", Alternative, nineties
+Deadsy, "Commencement", Alternative, nineties
+Def Leppard, "Pyromania", Rock, eighties
+Def Leppard, "Hysteria", Rock, eighties
+Def Leppard, "Adrenalize", Rock, nineties
+Deftones, "Adrenaline", Metal, nineties
+Deftones, "Around the Fur", Metal, nineties
+Deftones, "White Pony", Metal, twenty_first_century
+Deftones, "Deftones", Metal, twenty_first_century
+Deftones, "Saturday Night Wrist", Metal, twenty_first_century
+Deftones, "Diamond Eyes", Metal, twenty_first_century
+Depeche Mode, "Violator", Alternative, nineties
+Die Antwoord, "$O$", Hip Hop/Rap, twenty_first_century
+Die Antwoord, "Ten$ion", Hip Hop/Rap, twenty_first_century
+Die Antwoord, "Donker Mag", Hip Hop/Rap, twenty_first_century
+Dinosaur Jr., "Dinosaur", Alternative, eighties
+Dinosaur Jr., "You’re Living All Over Me", Alternative, eighties
+Dinosaur Jr., "Bug", Alternative, eighties
+Dinosaur Jr., "Green Mind", Alternative, nineties
+Dinosaur Jr., "Where You Been", Alternative, nineties
+Dinosaur Jr., "Without a Sound", Alternative, nineties
+Dinosaur Jr., "Hand It Over", Alternative, nineties
+Dinosaur Jr., "Ear Bleeding Country: The Best of Dinosaur Jr.", Alternative, twenty_first_century
+Dinosaur Jr., "Beyond", Alternative, twenty_first_century
+Dinosaur Jr., "Farm", Alternative, twenty_first_century
+Dinosaur Jr., "I Bet on Sky", Alternative, twenty_first_century
+Dio, "Holy Diver", Metal, eighties
+Disturbed, "The Sickness", Metal, twenty_first_century
+Disturbed, "Believe", Metal, twenty_first_century
+Disturbed, "Ten Thousand Fists", Metal, twenty_first_century
+Disturbed, "Indestructible", Metal, twenty_first_century
+Donovan, "Donovan's Greatest Hits", Rock, sixties
+DragonForce, "Inhuman Rampage", Metal, twenty_first_century
+Dwight Twilley Band, "Twilley Don't Mind", Rock, seventies
+Eagles, "Selected Works 1972–1999", Rock, twenty_first_century
+Echo & The Bunnymen, "More Songs To Learn And Sing", Rock, twenty_first_century
+Eddy Grant, "Road To Reparation: The Very Best Of Eddy Grant", Pop, twenty_first_century
+Enigma, "Love Sensuality Devotion: The Greatest Hits", Pop, twenty_first_century
+Eric Clapton, "Complete Clapton", Pop, eighties
+Escape Club, "Wild, Wild, West", Pop, eighties
+Eurythmics, "Sweet Dreams (Are Made Of This)", Pop, eighties
+Eurythmics, "Touch", Pop, eighties
+Everclear, "World of Noise", Alternative, nineties
+Everclear, "Sparkle and Fade", Alternative, nineties
+Everclear, "So Much for the Afterglow", Alternative, nineties
+Everclear, "Songs from an American Movie, Vol. 1: Learning How to Smile", Alternative, twenty_first_century
+Everclear, "Songs from an American Movie, Vol. 2: Good Time for a Bad Attitude", Alternative, twenty_first_century
+Faith No More, "The Real Thing", Alternative, eighties
+Faith No More, "Angel Dust", Alternative, nineties
+Faith No More, "King for a Day… Fool for a Lifetime", Alternative, nineties
+Faith No More, "Album of the Year", Alternative, nineties
+Faith No More, "Who Cares a Lot? The Greatest Hits", Alternative, nineties
+Fleetwood Mac, "Greatest Hits", Rock, eighties
+Foo Fighters, "Foo Fighters", Alternative, nineties
+Foo Fighters, "The Colour and the Shape", Alternative, nineties
+Foo Fighters, "There Is Nothing Left to Lose", Alternative, nineties
+Foo Fighters, "One by One", Alternative, twenty_first_century
+Foo Fighters, "In Your Honor", Alternative, twenty_first_century
+Foreigner, "Agent Provocateur", Rock, eighties
+Foster The People, "Torches", Alternative, twenty_first_century
+Fugees, "The Score", Hip Hop/Rap, nineties
+Gerry Rafferty, "The Best of Gerry Rafferty", Rock, twenty_first_century
+Goldfinger, "Hang-Ups", Alternative, nineties
+Green Day, "1,039/Smoothed Out Slappy Hours", Alternative, nineties
+Green Day, "Kerplunk", Alternative, nineties
+Green Day, "Dookie", Alternative, nineties
+Green Day, "Insomniac", Alternative, nineties
+Green Day, "Nimrod", Alternative, nineties
+Green Day, "Warning", Alternative, twenty_first_century
+Green Day, "American Idiot", Alternative, twenty_first_century
+Green Day, "21st Century Breakdown", Alternative, twenty_first_century
+Green Day, "¡Uno!", Alternative, twenty_first_century
+Green Day, "¡Dos!", Alternative, twenty_first_century
+Green Day, "¡Tré!", Alternative, twenty_first_century
+Green Jelly, "Cereal Killer Soundtrack", Alternative, nineties
+Guns N' Roses, "Apetite For Destruction", Rock, eighties
+Guns N' Roses, "G N' R Lies", Rock, eighties
+Guns N' Roses, "Use Your Illusion I", Rock, nineties
+Guns N' Roses, "Use Your Illusion II", Rock, nineties
+Guns N' Roses, "Chinese Democracy", Rock, twenty_first_century
+Hall & Oates, "Big Bam Boom", Pop, eighties
+Harry Nilsson, "Aerial Ballet", Rock, sixties
+Helmet, "Unsung: The Best of Helmet (1991-1997)", Metal, twenty_first_century
+Hole, "Live Through This", Alternative, nineties
+Hole, "Celebrity Skin", Alternative, nineties
+Hoobastank, "Hoobastank", Alternative, twenty_first_century
+Hoobastank, "The Reason", Alternative, twenty_first_century
+Hootie & the Blowfish, "Cracked Rear View", Alternative, nineties
+Iggy and The Stooges, "Raw Power", Alternative, seventies
+Iggy Azalea, "The New Classic", Hip Hop/Rap, twenty_first_century
+Iggy Pop, "Lust for Life", Alternative, seventies
+Iggy Pop, "The Idiot", Alternative, seventies
+Immortal Technique, "Revolutionary, Vol. 1", Hip Hop/Rap, twenty_first_century
+In Flames, "The Jester Race", Metal, nineties
+In Flames, "Black Ash Inheritance", Metal, nineties
+In Flames, "Whoracle", Metal, nineties
+In Flames, "Colony", Metal, nineties
+In Flames, "Reroute to Remain", Metal, twenty_first_century
+In Flames, "Soundtrack to Your Escape", Metal, twenty_first_century
+In Flames, "Come Clarity", Metal, twenty_first_century
+INXS, "Kick", Pop, eighties
+Iron Maiden, "Killers", Metal, eighties
+Iron Maiden, "The Number of the Beast", Metal, eighties
+Iron Maiden, "Piece of Mind", Metal, eighties
+Iron Maiden, "Powerslave", Metal, eighties
+Iron Maiden, "Somewhere in Time", Metal, eighties
+Iron Maiden, "Seventh Son of a Seventh Son", Metal, eighties
+Iron Maiden, "No Prayer for the Dying", Metal, nineties
+Iron Maiden, "Fear Of The Dark", Metal, nineties
+Iron Maiden, "Brave New World", Metal, twenty_first_century
+Iron Maiden, "Dance of Death", Metal, twenty_first_century
+Iron Maiden, "A Matter of Life and Death", Metal, twenty_first_century
+Iron Maiden, "The Final Frontier", Metal, twenty_first_century
+Iron Maiden, "The Book Of Souls", Metal, twenty_first_century
+J Mascis, "Martin + Me", Alternative, nineties
+J Mascis, "Live at CBGB's: The First Acoustic Show", Alternative, twenty_first_century
+Jamiroquai, "Travelling Without Moving", Pop, nineties
+Janis Joplin, "Janis Joplin's Greatest Hits", Rock, seventies
+Jeff Buckley, "Grace", Alternative, nineties
+Jeff Buckley, "Sketches for My Sweetheart the Drunk", Alternative, nineties
+Jimi Hendrix, "Experience Hendrix: The Best Of Jimi Hendrix", Rock, nineties
+Joe Satriani, "The Essential Joe Satriani", Rock, twenty_first_century
+John Lennon, "Imagine", Rock, seventies
+John Mellencamp, "American Fool", Rock, eighties
+Johnny Cash, "The Essential Johnny Cash", Rock, twenty_first_century
+Johnny Cash, "The Box Set Series", Country, twenty_first_century
+Journey, "Escape", Rock, eighties
+Joy Division, "Substance", Alternative, eighties
+Kavinsky, "OutRun", Electronic, twenty_first_century
+Killswitch Engage, "As Daylight Dies", Metal, twenty_first_century
+KISS, "The Very Best Of Kiss", Rock, twenty_first_century
+Korn, "Korn", Metal, nineties
+Korn, "Life Is Peachy", Metal, nineties
+Korn, "Follow the Leader", Metal, nineties
+Korn, "Issues", Metal, nineties
+Korn, "Untouchables", Metal, twenty_first_century
+Korn, "Take a Look in the Mirror", Metal, twenty_first_century
+Korn, "Greatest Hits, Volume 1", Metal, twenty_first_century
+Korn, "See You On The Other Side", Metal, twenty_first_century
+Korn, "Untitled", Metal, twenty_first_century
+Korn, "Korn III: Remember Who You Are", Metal, twenty_first_century
+Korn, "The Path Of Totality", Metal, twenty_first_century
+Korn, "The Paradigm Shift", Metal, twenty_first_century
+Led Zeppelin, "Mothership", Rock, twenty_first_century
+Len, "You Can't Stop the Bum Rush", Alternative, nineties
+Limp Bizkit, "Three Dollar Bill, Yall$", Alternative, nineties
+Limp Bizkit, "Significant Other", Alternative, nineties
+Limp Bizkit, "Chocolate Starfish and the Hot Dog Flavored Water", Alternative, twenty_first_century
+Limp Bizkit, "Hybrid Theory", Alternative, twenty_first_century
+Limp Bizkit, "Results May Vary", Alternative, twenty_first_century
+Limp Bizkit, "Gold Cobra", Alternative, twenty_first_century
+Linkin Park, "Meteora", Alternative, twenty_first_century
+Live, "Throwing Copper", Alternative, nineties
+Live, "Secret Samadhi", Alternative, nineties
+Live, "The Distance to Here", Alternative, nineties
+Lou Reed, "The Very Best Of Lou Reed", Rock, nineties
+Lou Reed, "Transformer", Rock, seventies
+Lou Reed, "Berlin", Rock, seventies
+Lou Reed, "Coney Island Baby", Rock, seventies
+Lou Reed, "The Blue Mask", Rock, eighties
+Lou Reed, "Legendary Hearts", Rock, eighties
+Lou Reed, "New Sensations", Rock, eighties
+Lou Reed, "Mistrial", Rock, eighties
+Lou Reed, "New York", Rock, eighties
+Lynyrd Skynyrd, "Pronounced 'Lĕh-'nérd 'Skin-'nérd", Rock, seventies
+M.I.A., "Kala", Electronic, twenty_first_century
+Manic Street Preachers, "The Holy Bible", Alternative, nineties
+Marcy Playground, "Marcy Playground", Rock, nineties
+Marilyn Manson, "Portrait of an American Family", Metal, nineties
+Marilyn Manson, "Antichrist Superstar", Metal, nineties
+Marilyn Manson, "Mechanical Animals", Metal, nineties
+Marilyn Manson, "Holy Wood (In the Shadow of the Valley of Death)", Metal, twenty_first_century
+Marilyn Manson, "The Golden Age Of Grotesque", Metal, twenty_first_century
+Marilyn Manson, "Lest We Forget: The Best Of", Metal, twenty_first_century
+Marilyn Manson, "Eat Me, Drink Me", Metal, twenty_first_century
+Marilyn Manson, "The High End Of Low", Metal, twenty_first_century
+Marvin Gaye, "What's Going On", R&B, seventies
+Meat Loaf, "Bat Out of Hell", Rock, seventies
+Megadeth, "Rust In Peace", Metal, nineties
+Megadeth, "Greatest Hits: Back To The Start", Metal, twenty_first_century
+Megadeth, "United Abominations", Metal, twenty_first_century
+Melvins, "Houdini", Alternative, nineties
+Metallica, "…And Justice For All", Metal, eighties
+Metallica, "Metallica", Metal, nineties
+Metallica, "Garage, Inc.", Metal, nineties
+Michael Jackson, "Number Ones", Pop, twenty_first_century
+Millencolin, "Pennybridge Pioneers", Alternative, twenty_first_century
+Mr. Big, "Lean Into It", Rock, nineties
+Muse, "Black Holes and Revelations", Alternative, twenty_first_century
+My Chemical Romance, "Three Cheers For Sweet Revenge", Alternative, twenty_first_century
+My Chemical Romance, "The Black Parade", Alternative, twenty_first_century
+N.W.A, "Straight Outta Compton", Hip Hop/Rap, eighties
+Nas, "Illmatic", Hip Hop/Rap, nineties
+Nas, "Stillmatic", Hip Hop/Rap, twenty_first_century
+Naughty By Nature, "Naughty By Nature", Hip Hop/Rap, nineties
+Naughty By Nature, "19 Naughty III", Hip Hop/Rap, nineties
+Naughty By Nature, "Poverty's Paradise", Hip Hop/Rap, nineties
+Neil Young, "Greatest Hits", Rock, twenty_first_century
+Nena, "99 Luftballons", Pop, eighties
+New Order, "Brotherhood", Alternative, eighties
+New Order, "Substance 1987", Alternative, eighties
+New Order, "(The Best of) New Order", Alternative, nineties
+New Radicals, "Maybe You've Been Brainwashed Too", Rock, nineties
+Nico Vega, "Fury Oh Fury EP", Alternative, twenty_first_century
+Night Ranger, "Midnight Madness", Rock, eighties
+Nightwish, "Dark Passion Play", Metal, twenty_first_century
+Nine Inch Nails, "Pretty Hate Machine", Metal, eighties
+Nine Inch Nails, "The Downward Spiral", Metal, nineties
+Nine Inch Nails, "The Fragile", Metal, nineties
+Nine Inch Nails, "With Teeth", Metal, twenty_first_century
+Nirvana, "Nevermind", Alternative, nineties
+Nirvana, "Incesticide", Alternative, nineties
+Nirvana, "In Utero", Alternative, nineties
+Nirvana, "MTV Unplugged in New York", Alternative, nineties
+Nirvana, "Nirvana", Alternative, twenty_first_century
+No Doubt, "The Singles 1992-2003", Alternative, twenty_first_century
+NOFX, "Punk in Drublic", Alternative, nineties
+NOFX, "Coaster", Alternative, twenty_first_century
+Orgy, "Candyass", Alternative, nineties
+Orgy, "Vapor Transmission", Alternative, twenty_first_century
+P.O.D., "Satellite", Alternative, twenty_first_century
+Papa Roach, "Infest", Alternative, twenty_first_century
+Papa Roach, "Lovehatetragedy", Alternative, twenty_first_century
+Papa Roach, "Getting Away With Murder", Alternative, twenty_first_century
+Papa Roach, "The Paramour Sessions", Alternative, twenty_first_century
+Papa Roach, "Metamorphosis", Alternative, twenty_first_century
+Patti Smith Group, "Easter", Alternative, seventies
+Pearl Jam, "Ten", Alternative, nineties
+Pearl Jam, "Vs.", Alternative, nineties
+Pearl Jam, "Vitalogy", Alternative, nineties
+Pearl Jam, "No Code", Alternative, nineties
+Pearl Jam, "Yield", Alternative, nineties
+Pearl Jam, "Binaural", Alternative, twenty_first_century
+Pearl Jam, "Riot Act", Alternative, twenty_first_century
+Pearl Jam, "Pearl Jam", Alternative, twenty_first_century
+Pearl Jam, "Backspacer", Alternative, twenty_first_century
+Pearl Jam, "Lightning Bolt", Alternative, twenty_first_century
+Pennywise, "Full Circle", Alternative, nineties
+Pet Shop Boys, "Discography: The Complete Singles Collection", Pop, nineties
+Phantom Planet, "The Guest", Alternative, twenty_first_century
+Phil Collins, "…Hits", Pop, nineties
+Pixies, "Doolittle", Alternative, eighties
+Pixies, "Wave of Mutilation: Best of Pixies", Alternative, twenty_first_century
+Placebo, "Once More With Feeling: Singles 1996–2004", Alternative, twenty_first_century
+Powerman 5000, "Tonight the Stars Revolt!", Metal, nineties
+Powerman 5000, "Transform", Metal, twenty_first_century
+Powerman 5000, "Copies, Clones & Replicants", Metal, twenty_first_century
+Puscifer, "Don't Shoot the Messenger", Alternative, twenty_first_century
+Puscifer, """"C"" is for (Please Insert Sophomoric Genitalia Reference HERE)"", Alternative, twenty_first_century
+Queen, "A Night At The Opera", Rock, seventies
+Queen, "Greatest Hits I", Rock, eighties
+Queen, "Greatest Hits II", Rock, nineties
+Queensryche, "Operation: Mindcrime", Metal, eighties
+Queensryche, "Empire", Metal, nineties
+R.E.M., "Out of Time", Alternative, nineties
+R.E.M., "The Best of R.E.M.", Alternative, nineties
+R.E.M., "Automatic For The People", Alternative, nineties
+R.E.M., "In Time: The Best of R.E.M. 1988 - 2003", Alternative, twenty_first_century
+Radiohead, "The Best Of Radiohead", Alternative, twenty_first_century
+Rage Against the Machine, "Rage Against the Machine", Metal, nineties
+Rage Against the Machine, "Evil Empire", Metal, nineties
+Rage Against the Machine, "The Battle of Los Angeles", Metal, nineties
+Rage Against the Machine, "Renegades", Metal, twenty_first_century
+Rammstein, "Sehnsucht", Metal, nineties
+Rammstein, "Mutter", Metal, twenty_first_century
+Rammstein, "Reise, Reise", Metal, twenty_first_century
+Rammstein, "Rosenrot", Metal, twenty_first_century
+Rammstein, "Liebe Ist Für Alle Da", Metal, twenty_first_century
+Ramones, "Anthology: Hey Ho, Let’s Go!", Alternative, twenty_first_century
+Red Hot Chili Peppers, "Blood Sugar Sex Magik", Alternative, nineties
+Red Hot Chili Peppers, "Californication", Alternative, nineties
+Richard Marx, "Rush Street", Rock, nineties
+Rilo Kiley, "More Adventurous", Alternative, twenty_first_century
+Rob Zombie, "Past, Present & Future", Alternative, twenty_first_century
+Rush, "Chronicles", Rock, nineties
+Santana, "The Essential Santana", Rock, twenty_first_century
+Sex Pistols, "Kiss This: The Best Of The Sex Pistols", Alternative, nineties
+Simon & Garfunkel, "The Essential Simon & Garfunkel", Folk, twenty_first_century
+Simple Minds, "Glittering Prize 81/92", Pop, nineties
+Slipknot, "Slipknot", Metal, nineties
+Slipknot, "Iowa", Metal, twenty_first_century
+Slipknot, "Vol. 3: (The Subliminal Verses)", Metal, twenty_first_century
+Slipknot, "All Hope Is Gone", Metal, twenty_first_century
+Slipknot, ".5: The Gray Chapter", Metal, twenty_first_century
+Social Distortion, "Greatest Hits", Alternative, twenty_first_century
+Soul Asylum, "Grave Dancers Union", Alternative, nineties
+Soul Asylum, "Let Your Dim Light Shine", Alternative, nineties
+Soundgarden, "Badmotorfinger", Alternative, nineties
+Soundgarden, "Superunknown", Alternative, nineties
+Soundgarden, "Down on the Upside", Alternative, nineties
+Spin Doctors, "Pocket Full of Kryptonite", Rock, nineties
+Staind, "Dysfunction", Alternative, nineties
+Staind, "Break the Cycle", Alternative, twenty_first_century
+Staind, "14 Shades Of Grey", Alternative, twenty_first_century
+Stevie Wonder, "Innervisions", R&B, nineties
+Stone Temple Pilots, "Core", Alternative, nineties
+Stone Temple Pilots, "Purple", Alternative, nineties
+Stone Temple Pilots, "Tiny Music...Songs from the Vatican Gift Shop", Alternative, nineties
+Stone Temple Pilots, "No. 4", Alternative, nineties
+Stone Temple Pilots, "Shangri-La Dee Da", Alternative, twenty_first_century
+Stone Temple Pilots, "Stone Temple Pilots", Alternative, twenty_first_century
+Sublime, "Sublime", Alternative, nineties
+Sugar Ray, "Floored", Alternative, nineties
+Sugar Ray, "14:59", Alternative, nineties
+Sugar Ray, "Sugar Ray", Alternative, twenty_first_century
+Suzanne Vega, "Solitude Standing", Pop, eighties
+System of a Down, "System of a Down", Metal, nineties
+System of a Down, "Toxicity", Metal, twenty_first_century
+System of a Down, "Steal This Album!", Metal, twenty_first_century
+System of a Down, "Hypnotize", Metal, twenty_first_century
+System of a Down, "Mezmerize", Metal, twenty_first_century
+Talking Heads, "The Best Of Talking Heads: Once in a Lifetime", Alternative, nineties
+Tears for Fears, "Songs From the Big Chair", Pop, eighties
+The Beach Boys, "Sounds of Summer: The Very Best of the Beach Boys", Rock, twenty_first_century
+The Bloodhound Gang, "One Fierce Beer Coaster", Alternative, nineties
+The Bloodhound Gang, "Hooray for Boobies", Alternative, twenty_first_century
+The Cardigans, "First Band On The Moon", Rock, nineties
+The Cardigans, "Gran Turismo", Rock, nineties
+The Cars, "Heartbeat City", Pop, eighties
+The Cars, "The Cars Greatest Hits", Pop, eighties
+The Chemical Brothers, "Dig Your Own Hole", Electronic, nineties
+The Clash, "London Calling", Alternative, seventies
+The Clash, "The Singles", Alternative, twenty_first_century
+The Cranberries, "Stars [The Best Of 1992-2002]", Alternative, twenty_first_century
+The Crystal Method, "Legion of Boom", Electronic, twenty_first_century
+The Cure, "Greatest Hits", Alternative, twenty_first_century
+The Darkness, "Permission to Land", Rock, twenty_first_century
+The Distillers, "Sing Sing Death House", Alternative, twenty_first_century
+The Distillers, "Coral Fang", Alternative, twenty_first_century
+The Doors, "The Very Best Of The Doors", Rock, twenty_first_century
+The Human League, "Dare!", Pop, eighties
+The Kinks, "Kinks", Rock, sixties
+The Last Internationale, "We Will Reign", Rock, twenty_first_century
+The Lemonheads, "It's A Shame About Ray", Alternative, nineties
+The Marvelettes, "Please Mr. Postman", Pop, sixties
+The Misfits, "Static Age", Alternative, nineties
+The Offspring, "Ignition", Alternative, nineties
+The Offspring, "Smash", Alternative, nineties
+The Offspring, "Ixnay On The Hombre", Alternative, nineties
+The Offspring, "Americana", Alternative, nineties
+The Offspring, "Conspiracy Of One", Alternative, twenty_first_century
+The Offspring, "Splinter", Alternative, twenty_first_century
+The Police, "The Police", Rock, twenty_first_century
+The Primitives, "Lovely", Alternative, eighties
+The Proclaimers, "The Best Of The Proclaimers", Rock, twenty_first_century
+The Prodigy, "Music For The Jilted Generation", Electronic, nineties
+The Prodigy, "The Fat of the Land", Electronic, nineties
+The Prodigy, "Always Outnumbered Never Outgunned", Electronic, twenty_first_century
+The Prodigy, "Invaders Must Die", Electronic, twenty_first_century
+The Smashing Pumpkins, "Gish", Alternative, nineties
+The Smashing Pumpkins, "Siamese Dream", Alternative, nineties
+The Smashing Pumpkins, "Pisces Iscariot", Alternative, nineties
+The Smashing Pumpkins, "Mellon Collie And The Infinite Sadness", Alternative, nineties
+The Smashing Pumpkins, "Adore", Alternative, nineties
+The Smashing Pumpkins, "MACHINA/the machines of God", Alternative, twenty_first_century
+The Smashing Pumpkins, "Zeitgeist", Alternative, twenty_first_century
+The Smashing Pumpkins, "Oceania", Alternative, twenty_first_century
+The Smiths, "The Sound of The Smiths", Alternative, twenty_first_century
+The Strokes, "Is This It", Alternative, twenty_first_century
+The Strokes, "Room on Fire", Alternative, twenty_first_century
+The Strokes, "First Impressions of Earth", Alternative, twenty_first_century
+The Strokes, "Angles", Alternative, twenty_first_century
+The Velvet Underground, "The Velvet Underground & Nico", Rock, sixties
+The Velvet Underground, "White Light/White Heat", Rock, sixties
+The Velvet Underground, "Loaded", Rock, seventies
+The White Stripes, "Elephant", Alternative, twenty_first_century
+The White Stripes, "Icky Thump", Alternative, twenty_first_century
+The Who, "Tommy", Alternative, sixties
+The Who, "Who’s Next", Rock, seventies
+The Yardbirds, "The Very Best Of The Yardbirds", Rock, twenty_first_century
+Tool, "Undertow", Metal, nineties
+Tool, "Ænima", Metal, nineties
+Tool, "Lateralus", Metal, twenty_first_century
+Tool, "10,000 Days", Metal, twenty_first_century
+Toto, "Toto IV", Rock, eighties
+Trivium, "The Crusade", Metal, twenty_first_century
+Twisted Sister, "Stay Hungry", Metal, eighties
+U2, "The Best of 1980-1990", Rock, nineties
+Ugly Kid Joe, "America's Least Wanted", Rock, nineties
+Vampire Weekend, "Vampire Weekend", Alternative, twenty_first_century
+Vampire Weekend, "Contra", Alternative, twenty_first_century
+Vampire Weekend, "Modern Vampires of the City", Alternative, twenty_first_century
+Velvet Revolver, "Contraband", Alternative, twenty_first_century
+Violent Femmes, "Violent Femmes", Alternative, eighties
+Weezer, "Weezer (Blue Album)", Alternative, nineties
+Weezer, "Pinkerton", Alternative, nineties
+Weezer, "Weezer (Green Album)", Alternative, twenty_first_century
+Weezer, "Maladroit", Alternative, twenty_first_century
+Weezer, "Make Believe", Alternative, twenty_first_century
+Weezer, "Weezer (Red Album)", Alternative, twenty_first_century
+Weezer, "Raditude", Alternative, twenty_first_century
+Weezer, "Hurley", Alternative, twenty_first_century
+White Zombie, "Supersexy Swingin' Sounds", Alternative, nineties
+Wilson Pickett, "The Very Best of Wilson Pickett", R&B, nineties
+Yeah Yeah Yeahs, "Yeah Yeah Yeahs", Alternative, twenty_first_century
+Yeah Yeah Yeahs, "Fever To Tell", Alternative, twenty_first_century
+Yeah Yeah Yeahs, "Show Your Bones", Alternative, twenty_first_century
+Yeah Yeah Yeahs, "Is Is", Alternative, twenty_first_century
+Yeah Yeah Yeahs, "It's Blitz!", Alternative, twenty_first_century
+Yeah Yeah Yeahs, "Mosquito", Alternative, twenty_first_century
+Zwan, "Mary Star Of The Sea", Alternative, twenty_first_century
+Nas, "It Was Written", Hip Hop/Rap, nineties
