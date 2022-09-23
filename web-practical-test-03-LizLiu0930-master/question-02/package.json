@@ -1,0 +1,14 @@
+{
+  "name": "question-02",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node question-02.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "express-handlebars": "^5.3.2",
+    "jimp": "^0.16.1",
+    "multer": "^1.4.2"
+  }
+}

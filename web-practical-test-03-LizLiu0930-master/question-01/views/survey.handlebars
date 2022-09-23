@@ -1,0 +1,75 @@
+
+<div class="container">
+    <h1>PGCert Developer Survey</h1>
+
+    {{#if developerArray}}
+    <div class="content">
+
+        <h2>Developer name: {{developer}}</h2>
+
+        <div class="favourite_language">
+        {{#if languages}}
+        <p>Favourite language:</p>
+            <ul>
+            {{#each languages}}
+            <li>{{this}}</li>
+            {{/each}}
+            </ul>
+            {{else}}
+            <p>No Favourite languages.</p>
+        {{/if}}
+        </div>
+
+        <div class="interests">
+            {{#if mostInterest}}
+                <p>Interests:</p>
+            <ul>
+            {{#each mostInterest}}
+            <li>{{this}}</li>
+            {{/each}}
+            </ul>
+            {{else}}
+            <p>No Favourite interest.</p>
+            {{/if}}
+
+        </div>
+
+        {{#if time}}
+        <div class="time">
+            <p>{{developerName}} spends {{Writing}}% of their time writing code, 
+                {{Debugging}}% of their time debugging and {{Stackoverflow}}% of their time on Stack Overflow.</p>
+        
+        </div>
+        {{/if}}
+
+        {{#if goals}}
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Goal</th>
+                        <th>Time to complete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        {{#each goals}}
+                        <td>{{this}}</td>
+                        {{/each}}
+                        {{#each goalsTime}}
+                        <td>{{this}}</td>
+                        {{/each}}
+                    </tr>
+
+                </tbody>
+
+            </table>
+            </div>
+
+
+        {{/if}}
+
+        {{/if}}
+    </div>
+
+</div>
