@@ -1,0 +1,39 @@
+<div class="container">
+
+    {{#if messages}}
+        <table>
+            <thead>
+                <tr>
+                    <th>id</th>
+                    <th>animal_name</th>
+                    <th>animal_scientific</th>
+                    <th>gender</th>
+                    <th>country</th>
+                    <th>age</th>
+                    <th>price</th>
+                </tr>
+            </thead>
+            <tbody>
+            {{#each messages}}
+            <tr>
+                    <td>{{id}}</td>
+                    <td>{{animal_name}}</td>
+                    <td>{{animal_scientific}}</td>
+                    <td>{{gender}}</td>
+                    <td>{{country}}</td>
+                    <td>{{age}}</td>
+                    <td>{{price}}</td>            
+            </tr>
+            {{/each}}
+            </tbody>
+
+
+        </table>
+
+
+
+    {{/if}}
+
+
+
+</div>a
