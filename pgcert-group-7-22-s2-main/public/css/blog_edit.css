@@ -1,0 +1,20 @@
+* {
+  border: 1px solid black;
+}
+
+#editor—wrapper {
+    border: 1px solid rgb(5, 5, 5);
+    z-index: 100; /* 按需定义 */
+}
+
+#toolbar-container { 
+  border-bottom: 1px solid #ccc; 
+  border: 1px solid black;
+
+}
+
+#editor-container { 
+  height: 500px; 
+  border: 1px solid black;
+
+}
