@@ -18,7 +18,7 @@
       images_upload_url: 'upload.php',
       images_upload_base_path: '/public/images',
 
-      images_upload_handler: function (blobInfo, success, failure, progress) {
+      {{!-- images_upload_handler: function (blobInfo, success, failure, progress) {
         var xhr, formData;
         xhr = new XMLHttpRequest();
         xhr.withCredentials = false;
@@ -54,7 +54,7 @@
         formData.append('file', blobInfo.blob(), blobInfo.filename());
         
         xhr.send(formData);
-    }
+    } --}}
 
     });
   </script>
